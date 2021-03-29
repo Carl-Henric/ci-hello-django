@@ -26,7 +26,7 @@ SECRET_KEY = 'mamfrnr=7s80w52^gpwnj#_gke3l^5yxjf)(l@ng*x=m^f$l9m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chgrip-django-todo-app.herokuapp.com']
 
 
 # Application definition
